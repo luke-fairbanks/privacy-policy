@@ -113,4 +113,4 @@ may contact us using the address below.
 Material changes will be posted here with a new update date. Questions can be
 sent to [luke_fairbanks@icloud.com](mailto:luke_fairbanks@icloud.com).
 
-[Back to all policies](../)
+[Hum support](./support/) · [Back to all policies](../)
