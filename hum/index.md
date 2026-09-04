@@ -4,7 +4,7 @@ title: Hum Privacy Policy
 
 # Hum privacy policy
 
-Last updated: September 2, 2026
+Last updated: September 3, 2026
 
 Hum is an offline tone, noise, and binaural-beat generator operated by Faba
 Development / Luke Fairbanks ("we," "us"). This notice describes the app's
@@ -31,8 +31,15 @@ share with the platform.
 
 Hum does not record. The app synthesizes every sound it plays — tones, noise,
 and binaural beats are generated on the device from numbers, not captured from
-your surroundings. It does not request microphone access and contains no
-recording code.
+your surroundings. It never requests microphone access, and its audio session
+is configured for playback only.
+
+You may still see a microphone entry listed for the app. Hum is built on a
+general-purpose audio library that includes recording capability, and Apple
+requires a stated reason from any app whose code references those APIs, whether
+or not it uses them. Hum does not use them, so iOS will never show you a
+microphone permission prompt — if it ever does, that is a bug and we would want
+to hear about it.
 
 ## Information stored on your device
 

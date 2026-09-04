@@ -73,8 +73,14 @@ treat, cure or prevent anything.
 
 ### Does Hum use my microphone
 
-No. Hum has no microphone access and contains no recording code. Every sound is
-generated on the device from numbers.
+No. Every sound is generated on the device from numbers, and Hum's audio
+session is set to playback only, so it never asks for microphone access.
+
+Apple requires any app whose code references the microphone APIs to state a
+reason for it, even when the app does not use them. Hum is built on a
+general-purpose audio library that can record, which is why you may see a
+microphone entry listed. Hum does not record, and you should never see a
+permission prompt.
 
 ## Hearing safety
 
