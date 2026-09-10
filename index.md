@@ -4,13 +4,14 @@ title: Faba Development Privacy Policies
 
 # Faba Development privacy policies
 
-Last updated: September 2, 2026
+Last updated: September 9, 2026
 
 Select the product you use:
 
 - [Get Quoted](./get-quoted/)
 - [Gospel AI](./gospel-ai/)
 - [Hum](./hum/)
+- [Mane](./mane/)
 - [NextStop](./nextstop/)
 
 These notices describe the current product behavior separately because the apps handle different data and use different service providers.
