@@ -2,6 +2,7 @@
 
 This repository publishes product-specific privacy notices for apps operated by Faba Development / Luke Fairbanks.
 
+- [Aloud](./aloud/)
 - [Get Quoted](./get-quoted/)
 - [Gospel AI](./gospel-ai/)
 - [NextStop](./nextstop/)
