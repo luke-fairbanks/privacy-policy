@@ -78,8 +78,10 @@ merchants or assessment contents.
 
 To apply the free allowance and prevent abuse, our server keeps counters: how
 many checks an anonymous, app-generated identifier has used, and, for free
-checks, how many came from a network address that day. These are numbers,
-not content. They are not linked to your name or Apple Account.
+checks, how many came from a network address that day. Each check also gets a
+random identifier, kept for up to 30 days, so finishing or following up on it
+does not count again. These are numbers and random identifiers, not content.
+They are not linked to your name or Apple Account.
 
 ## What stays on your phone
 
@@ -89,6 +91,11 @@ protected with your device passcode (iOS data protection) and included in
 your device backups if you have backups enabled. WriteOff has no user
 accounts and no cloud storage of records. If you delete a record, or the
 app, it is gone; we hold no copy.
+
+A check you leave before saving (its photo or receipt, the identification and
+your answers so far) is kept the same way under "In progress" on the home
+screen, so you can finish it without using another check. It is removed when
+you save or discard it, or after 30 days.
 
 ## Purchases
 
@@ -130,8 +137,9 @@ information from them.
 
 - Delete any record from within the app; its photo and receipt are removed
   with it.
+- Discard an unfinished check from "In progress" on the home screen.
 - Settings › "Delete all records and profile" removes everything the app
-  stored on your phone.
+  stored on your phone, including unfinished checks.
 - Deleting the app removes all of its data.
 - Because we keep no copy of your records, photos or questions on our
   servers, there is nothing further for us to delete. The free-check
