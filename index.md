@@ -4,11 +4,12 @@ title: Faba Development Privacy Policies
 
 # Faba Development privacy policies
 
-Last updated: September 12, 2026
+Last updated: September 13, 2026
 
 Select the product you use:
 
 - [Lectern](./lectern/)
+- [WriteOff](./writeoff/)
 - [Get Quoted](./get-quoted/)
 - [Gospel AI](./gospel-ai/)
 - [Grid](./grid/)

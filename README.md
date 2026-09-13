@@ -3,6 +3,7 @@
 This repository publishes product-specific privacy notices for apps operated by Faba Development / Luke Fairbanks.
 
 - [Lectern](./lectern/)
+- [WriteOff](./writeoff/)
 - [Get Quoted](./get-quoted/)
 - [Gospel AI](./gospel-ai/)
 - [NextStop](./nextstop/)
