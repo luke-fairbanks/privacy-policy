@@ -8,7 +8,7 @@ Last updated: September 12, 2026
 
 Select the product you use:
 
-- [Aloud](./aloud/)
+- [Lectern](./lectern/)
 - [Get Quoted](./get-quoted/)
 - [Gospel AI](./gospel-ai/)
 - [Grid](./grid/)

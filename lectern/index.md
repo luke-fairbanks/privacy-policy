@@ -1,12 +1,12 @@
 ---
-title: Aloud Privacy Policy
+title: Lectern Privacy Policy
 ---
 
-# Aloud privacy policy
+# Lectern privacy policy
 
 Last updated: September 12, 2026
 
-Aloud is a text-to-speech reader operated by Faba Development / Luke Fairbanks
+Lectern is a text-to-speech reader operated by Faba Development / Luke Fairbanks
 ("we," "us"). This notice describes the app's current data handling. The short
 version: your documents stay on your device, and the only things that can
 leave it are purchase receipts and, if analytics are enabled, anonymous usage
@@ -14,7 +14,7 @@ counts.
 
 ## Your documents never leave your device
 
-Everything Aloud does with your content happens on your iPhone:
+Everything Lectern does with your content happens on your iPhone:
 
 - **Text extraction** from PDF, EPUB, Word, text, Markdown and RTF files runs
   on the device.
@@ -27,7 +27,7 @@ Everything Aloud does with your content happens on your iPhone:
   storage on your device, and are included in your device backups if you have
   backups enabled.
 
-Aloud has no user accounts, no sign-in, and no server of its own that could
+Lectern has no user accounts, no sign-in, and no server of its own that could
 receive your content.
 
 ## What can leave your device
@@ -58,20 +58,20 @@ app downloads, purchases, backups, and diagnostics under their own terms.
 
 - **Camera** is requested only when you choose to scan a page and is used only
   to capture that page.
-- **Photos** are provided through the system photo picker, which hands Aloud
-  only the photos you select. Aloud never has access to your photo library.
+- **Photos** are provided through the system photo picker, which hands Lectern
+  only the photos you select. Lectern never has access to your photo library.
 
-Aloud does not request location, contacts, or the microphone.
+Lectern does not request location, contacts, or the microphone.
 
 ## Children
 
-Aloud is not directed at children under 13 and does not knowingly collect
+Lectern is not directed at children under 13 and does not knowingly collect
 information from them.
 
 ## Deleting your data
 
-Deleting a document in Aloud removes its text and your listening position from
-your device. Deleting the app removes everything Aloud stored. Purchase records
+Deleting a document in Lectern removes its text and your listening position from
+your device. Deleting the app removes everything Lectern stored. Purchase records
 are held by Apple under your Apple Account. Analytics events, if enabled, are
 anonymous and cannot be traced back to you; you may nonetheless ask us to
 delete them at the address below.
@@ -84,5 +84,5 @@ new date.
 ## Contact
 
 Faba Development / Luke Fairbanks —
-[luke_fairbanks@icloud.com](mailto:luke_fairbanks@icloud.com). Include "Aloud"
+[luke_fairbanks@icloud.com](mailto:luke_fairbanks@icloud.com). Include "Lectern"
 in the subject. Do not send passwords or payment details.
